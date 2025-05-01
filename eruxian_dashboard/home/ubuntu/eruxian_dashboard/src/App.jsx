@@ -7,7 +7,7 @@ import { Separator } from "@/components/ui/separator";
 
 // --- Configuration ---
 // API_BASE_URL is now relative, relying on Vite proxy
-const API_BASE_URL = "/api"; 
+const API_BASE_URL = "https://eruxian-backend.onrender.com/api"; 
 const POLLING_INTERVAL_MS = 2000; // Fetch updates every 2 seconds
 
 // --- Placeholder Components ---
