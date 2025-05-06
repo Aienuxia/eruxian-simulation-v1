@@ -1,1 +1,2 @@
-
+# URL of your deployed backend API (or http://localhost:5000 for local dev)
+REACT_APP_API_URL=https://story-backend.onrender.com
