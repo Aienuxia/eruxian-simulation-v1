@@ -1,5 +1,1 @@
-# MongoDB connection string (replace <user>, <pass>, <cluster> and <dbname> with your Atlas or local values)
-MONGODB_URI=mongodb+srv://<user>:<pass>@<cluster>.mongodb.net/interactive-story?retryWrites=true&w=majority
 
-# Secret key for signing JWTs (make this long and unguessable in production)
-JWT_SECRET=yourSuperSecretJWTSigningKey123!
