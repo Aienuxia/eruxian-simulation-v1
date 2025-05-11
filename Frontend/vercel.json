@@ -1,0 +1,2 @@
+cd ..  # Back to project root
+touch vercel.json
